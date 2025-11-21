@@ -1,0 +1,1098 @@
+Blendshapes extracting time(ms):  43.62225532531738
+2025-05-17 17:13:12.132555: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+classifying time:  7.8029632568359375
+Blendshapes extracting time(ms):  16.644716262817383
+classifying time:  1.0154247283935547
+Blendshapes extracting time(ms):  21.166086196899414
+classifying time:  1.012563705444336
+Blendshapes extracting time(ms):  17.215728759765625
+classifying time:  1.062631607055664
+Blendshapes extracting time(ms):  19.075870513916016
+classifying time:  1.0004043579101562
+Blendshapes extracting time(ms):  19.095420837402344
+classifying time:  0.9992122650146484
+Blendshapes extracting time(ms):  18.993139266967773
+classifying time:  1.0099411010742188
+Blendshapes extracting time(ms):  17.15874671936035
+classifying time:  1.0008811950683594
+Blendshapes extracting time(ms):  17.96746253967285
+classifying time:  1.0001659393310547
+Blendshapes extracting time(ms):  16.884803771972656
+classifying time:  1.0101795196533203
+Blendshapes extracting time(ms):  18.198728561401367
+classifying time:  0.9996891021728516
+Blendshapes extracting time(ms):  18.114328384399414
+classifying time:  0.0
+Blendshapes extracting time(ms):  16.434431076049805
+classifying time:  0.0
+Blendshapes extracting time(ms):  17.72141456604004
+classifying time:  0.0
+Blendshapes extracting time(ms):  18.604516983032227
+classifying time:  0.0
+Blendshapes extracting time(ms):  18.215417861938477
+classifying time:  0.0
+Blendshapes extracting time(ms):  15.358448028564453
+classifying time:  1.1429786682128906
+Blendshapes extracting time(ms):  16.587257385253906
+classifying time:  1.0073184967041016
+Blendshapes extracting time(ms):  15.013694763183594
+classifying time:  1.0006427764892578
+Blendshapes extracting time(ms):  15.863180160522461
+classifying time:  1.0004043579101562
+Blendshapes extracting time(ms):  15.518426895141602
+classifying time:  1.0030269622802734
+Blendshapes extracting time(ms):  15.959024429321289
+classifying time:  0.0
+Blendshapes extracting time(ms):  15.433311462402344
+classifying time:  1.0218620300292969
+Blendshapes extracting time(ms):  15.993118286132812
+classifying time:  0.0
+Blendshapes extracting time(ms):  15.39301872253418
+classifying time:  0.99945068359375
+Blendshapes extracting time(ms):  15.927553176879883
+classifying time:  0.0
+Blendshapes extracting time(ms):  17.337799072265625
+classifying time:  1.0242462158203125
+Blendshapes extracting time(ms):  15.834569931030273
+classifying time:  1.0178089141845703
+Blendshapes extracting time(ms):  17.5020694732666
+classifying time:  0.0
+Blendshapes extracting time(ms):  16.768932342529297
+classifying time:  0.0
+Blendshapes extracting time(ms):  15.159845352172852
+classifying time:  1.546621322631836
+Blendshapes extracting time(ms):  15.547990798950195
+classifying time:  0.0
+Blendshapes extracting time(ms):  15.49673080444336
+classifying time:  0.0
+Blendshapes extracting time(ms):  15.8233642578125
+classifying time:  0.0
+Blendshapes extracting time(ms):  16.417264938354492
+classifying time:  0.0
+Blendshapes extracting time(ms):  16.222715377807617
+classifying time:  0.0
+Blendshapes extracting time(ms):  17.422199249267578
+classifying time:  0.0
+Blendshapes extracting time(ms):  16.844987869262695
+classifying time:  1.0361671447753906
+Blendshapes extracting time(ms):  16.209125518798828
+classifying time:  0.0
+Blendshapes extracting time(ms):  15.438079833984375
+classifying time:  1.4905929565429688
+Blendshapes extracting time(ms):  15.53034782409668
+classifying time:  1.0004043579101562
+Blendshapes extracting time(ms):  15.151023864746094
+classifying time:  1.0037422180175781
+Blendshapes extracting time(ms):  15.55013656616211
+classifying time:  1.0058879852294922
+Blendshapes extracting time(ms):  16.289949417114258
+classifying time:  0.99945068359375
+Blendshapes extracting time(ms):  15.469789505004883
+classifying time:  0.6361007690429688
+Blendshapes extracting time(ms):  15.270471572875977
+classifying time:  1.0046958923339844
+Blendshapes extracting time(ms):  15.346288681030273
+classifying time:  0.9462833404541016
+Blendshapes extracting time(ms):  16.570091247558594
+classifying time:  0.9999275207519531
+Blendshapes extracting time(ms):  18.091678619384766
+classifying time:  0.9996891021728516
+Blendshapes extracting time(ms):  18.039464950561523
+classifying time:  0.9973049163818359
+Blendshapes extracting time(ms):  16.763925552368164
+classifying time:  0.0
+Blendshapes extracting time(ms):  16.360044479370117
+classifying time:  0.0
+Blendshapes extracting time(ms):  16.32547378540039
+classifying time:  0.0
+Blendshapes extracting time(ms):  15.649080276489258
+classifying time:  0.9984970092773438
+Blendshapes extracting time(ms):  15.64168930053711
+classifying time:  0.9996891021728516
+Blendshapes extracting time(ms):  16.17598533630371
+classifying time:  1.0073184967041016
+Blendshapes extracting time(ms):  15.712738037109375
+classifying time:  0.9961128234863281
+Blendshapes extracting time(ms):  14.791011810302734
+classifying time:  1.4314651489257812
+Blendshapes extracting time(ms):  15.430927276611328
+classifying time:  1.0066032409667969
+Blendshapes extracting time(ms):  17.347335815429688
+classifying time:  0.0
+Blendshapes extracting time(ms):  16.030073165893555
+classifying time:  0.0
+Blendshapes extracting time(ms):  15.733480453491211
+classifying time:  0.9999275207519531
+Blendshapes extracting time(ms):  16.058921813964844
+classifying time:  1.0013580322265625
+Blendshapes extracting time(ms):  16.108036041259766
+classifying time:  0.0
+Blendshapes extracting time(ms):  16.87932014465332
+classifying time:  0.0
+Blendshapes extracting time(ms):  16.496896743774414
+classifying time:  0.0
+Blendshapes extracting time(ms):  15.46621322631836
+classifying time:  0.0
+Blendshapes extracting time(ms):  16.147851943969727
+classifying time:  1.4042854309082031
+Blendshapes extracting time(ms):  15.733957290649414
+classifying time:  1.0004043579101562
+Blendshapes extracting time(ms):  18.528223037719727
+classifying time:  0.0
+Blendshapes extracting time(ms):  18.9816951751709
+classifying time:  0.0
+Blendshapes extracting time(ms):  15.870094299316406
+classifying time:  0.0
+Blendshapes extracting time(ms):  16.736507415771484
+classifying time:  0.0
+Blendshapes extracting time(ms):  16.399860382080078
+classifying time:  1.0004043579101562
+Blendshapes extracting time(ms):  15.372276306152344
+classifying time:  0.9992122650146484
+Blendshapes extracting time(ms):  15.92111587524414
+classifying time:  1.2197494506835938
+Blendshapes extracting time(ms):  15.874862670898438
+classifying time:  1.0073184967041016
+Blendshapes extracting time(ms):  17.465591430664062
+classifying time:  0.0
+Blendshapes extracting time(ms):  15.490531921386719
+classifying time:  1.4863014221191406
+Blendshapes extracting time(ms):  16.450881958007812
+classifying time:  0.0
+Blendshapes extracting time(ms):  15.987157821655273
+classifying time:  1.0004043579101562
+Blendshapes extracting time(ms):  16.354799270629883
+classifying time:  0.9989738464355469
+Blendshapes extracting time(ms):  16.277074813842773
+classifying time:  0.0
+Blendshapes extracting time(ms):  16.139745712280273
+classifying time:  1.430511474609375
+Blendshapes extracting time(ms):  15.278100967407227
+classifying time:  1.001119613647461
+Blendshapes extracting time(ms):  16.27635955810547
+classifying time:  0.0
+Blendshapes extracting time(ms):  15.480279922485352
+classifying time:  0.0
+Blendshapes extracting time(ms):  15.917301177978516
+classifying time:  0.6976127624511719
+Blendshapes extracting time(ms):  14.85443115234375
+classifying time:  1.0056495666503906
+Blendshapes extracting time(ms):  15.680551528930664
+classifying time:  1.0035037994384766
+Blendshapes extracting time(ms):  16.6628360748291
+classifying time:  0.0
+Blendshapes extracting time(ms):  16.470670700073242
+classifying time:  0.0
+Blendshapes extracting time(ms):  15.937566757202148
+classifying time:  1.0182857513427734
+Blendshapes extracting time(ms):  15.996694564819336
+classifying time:  0.0
+Blendshapes extracting time(ms):  16.260385513305664
+classifying time:  0.0
+Blendshapes extracting time(ms):  15.077590942382812
+classifying time:  1.4576911926269531
+Blendshapes extracting time(ms):  15.332698822021484
+classifying time:  1.1208057403564453
+Blendshapes extracting time(ms):  15.873193740844727
+classifying time:  0.0
+Blendshapes extracting time(ms):  16.97826385498047
+classifying time:  0.0
+Blendshapes extracting time(ms):  14.976263046264648
+classifying time:  1.3659000396728516
+Blendshapes extracting time(ms):  16.002416610717773
+classifying time:  0.9999275207519531
+Blendshapes extracting time(ms):  15.256404876708984
+classifying time:  1.0077953338623047
+Blendshapes extracting time(ms):  15.431404113769531
+classifying time:  1.001119613647461
+Blendshapes extracting time(ms):  17.843008041381836
+classifying time:  0.0
+Blendshapes extracting time(ms):  15.706777572631836
+classifying time:  0.0
+Blendshapes extracting time(ms):  15.887737274169922
+classifying time:  0.0
+Blendshapes extracting time(ms):  16.265153884887695
+classifying time:  0.0
+Blendshapes extracting time(ms):  15.48457145690918
+classifying time:  1.210927963256836
+Blendshapes extracting time(ms):  15.542268753051758
+classifying time:  0.9996891021728516
+Blendshapes extracting time(ms):  15.492439270019531
+classifying time:  1.2812614440917969
+Blendshapes extracting time(ms):  15.456438064575195
+classifying time:  1.0018348693847656
+Blendshapes extracting time(ms):  16.69168472290039
+classifying time:  0.0
+Blendshapes extracting time(ms):  15.883922576904297
+classifying time:  0.0
+Blendshapes extracting time(ms):  16.443490982055664
+classifying time:  0.0
+Blendshapes extracting time(ms):  15.681028366088867
+classifying time:  1.0013580322265625
+Blendshapes extracting time(ms):  15.12598991394043
+classifying time:  1.3039112091064453
+Blendshapes extracting time(ms):  16.13330841064453
+classifying time:  0.0
+Blendshapes extracting time(ms):  15.734195709228516
+classifying time:  1.0008811950683594
+Blendshapes extracting time(ms):  15.252828598022461
+classifying time:  1.5060901641845703
+Blendshapes extracting time(ms):  16.281843185424805
+classifying time:  1.0097026824951172
+Blendshapes extracting time(ms):  15.867471694946289
+classifying time:  1.0051727294921875
+Blendshapes extracting time(ms):  15.786409378051758
+classifying time:  1.0213851928710938
+Blendshapes extracting time(ms):  16.417503356933594
+classifying time:  0.0
+Blendshapes extracting time(ms):  15.70749282836914
+classifying time:  0.0
+Blendshapes extracting time(ms):  15.197992324829102
+classifying time:  1.1434555053710938
+Blendshapes extracting time(ms):  15.643835067749023
+classifying time:  0.0
+Blendshapes extracting time(ms):  16.10565185546875
+classifying time:  0.0
+Blendshapes extracting time(ms):  16.13903045654297
+classifying time:  0.5137920379638672
+Blendshapes extracting time(ms):  14.790773391723633
+classifying time:  1.0216236114501953
+Blendshapes extracting time(ms):  16.192197799682617
+classifying time:  0.0
+Blendshapes extracting time(ms):  15.538692474365234
+classifying time:  1.355886459350586
+Blendshapes extracting time(ms):  16.13330841064453
+classifying time:  0.0
+Blendshapes extracting time(ms):  16.365528106689453
+classifying time:  0.0
+Blendshapes extracting time(ms):  15.49839973449707
+classifying time:  0.9999275207519531
+Blendshapes extracting time(ms):  14.48369026184082
+classifying time:  1.0008811950683594
+Blendshapes extracting time(ms):  16.530752182006836
+classifying time:  0.0
+Blendshapes extracting time(ms):  15.68913459777832
+classifying time:  0.9999275207519531
+Blendshapes extracting time(ms):  16.24894142150879
+classifying time:  0.0
+Blendshapes extracting time(ms):  15.98811149597168
+classifying time:  1.0030269622802734
+Blendshapes extracting time(ms):  15.570878982543945
+classifying time:  1.0197162628173828
+Blendshapes extracting time(ms):  15.538930892944336
+classifying time:  1.0027885437011719
+Blendshapes extracting time(ms):  15.901327133178711
+classifying time:  0.0
+Blendshapes extracting time(ms):  16.623497009277344
+classifying time:  0.0
+Blendshapes extracting time(ms):  15.713930130004883
+classifying time:  1.0030269622802734
+Blendshapes extracting time(ms):  17.03333854675293
+classifying time:  0.0
+Blendshapes extracting time(ms):  15.789508819580078
+classifying time:  0.9980201721191406
+Blendshapes extracting time(ms):  14.978647232055664
+classifying time:  1.0058879852294922
+Blendshapes extracting time(ms):  15.507221221923828
+classifying time:  1.0018348693847656
+Blendshapes extracting time(ms):  16.04914665222168
+classifying time:  0.0
+Blendshapes extracting time(ms):  15.403270721435547
+classifying time:  0.0
+Blendshapes extracting time(ms):  16.622543334960938
+classifying time:  0.0
+Blendshapes extracting time(ms):  14.53256607055664
+classifying time:  1.4119148254394531
+Blendshapes extracting time(ms):  16.24298095703125
+classifying time:  0.99945068359375
+Blendshapes extracting time(ms):  16.077280044555664
+classifying time:  1.0018348693847656
+Blendshapes extracting time(ms):  15.72418212890625
+classifying time:  1.009225845336914
+Blendshapes extracting time(ms):  16.389131546020508
+classifying time:  1.0416507720947266
+Blendshapes extracting time(ms):  16.41368865966797
+classifying time:  0.0
+Blendshapes extracting time(ms):  15.919923782348633
+classifying time:  0.0
+Blendshapes extracting time(ms):  15.046119689941406
+classifying time:  0.0
+Blendshapes extracting time(ms):  15.284061431884766
+classifying time:  0.0
+Blendshapes extracting time(ms):  15.077590942382812
+classifying time:  1.0001659393310547
+Blendshapes extracting time(ms):  15.997648239135742
+classifying time:  0.8950233459472656
+Blendshapes extracting time(ms):  18.33653450012207
+classifying time:  0.0
+Blendshapes extracting time(ms):  17.574548721313477
+classifying time:  1.0039806365966797
+Blendshapes extracting time(ms):  16.50691032409668
+classifying time:  0.0
+Blendshapes extracting time(ms):  16.06154441833496
+classifying time:  0.9977817535400391
+Blendshapes extracting time(ms):  15.689373016357422
+classifying time:  0.0
+Blendshapes extracting time(ms):  18.069028854370117
+classifying time:  0.9982585906982422
+Blendshapes extracting time(ms):  16.87312126159668
+classifying time:  0.0
+Blendshapes extracting time(ms):  15.826940536499023
+classifying time:  1.0728836059570312
+Blendshapes extracting time(ms):  16.01099967956543
+classifying time:  0.0
+Blendshapes extracting time(ms):  15.808820724487305
+classifying time:  0.9982585906982422
+Blendshapes extracting time(ms):  16.103744506835938
+classifying time:  1.0025501251220703
+Blendshapes extracting time(ms):  15.61117172241211
+classifying time:  0.0
+Blendshapes extracting time(ms):  15.858888626098633
+classifying time:  1.004934310913086
+Blendshapes extracting time(ms):  15.930891036987305
+classifying time:  0.0
+Blendshapes extracting time(ms):  15.76685905456543
+classifying time:  1.0118484497070312
+Blendshapes extracting time(ms):  16.484975814819336
+classifying time:  1.0001659393310547
+Blendshapes extracting time(ms):  15.91801643371582
+classifying time:  0.9987354278564453
+Blendshapes extracting time(ms):  16.289234161376953
+classifying time:  1.2638568878173828
+Blendshapes extracting time(ms):  15.435457229614258
+classifying time:  1.1472702026367188
+Blendshapes extracting time(ms):  15.165567398071289
+classifying time:  0.9987354278564453
+Blendshapes extracting time(ms):  15.407800674438477
+classifying time:  0.0
+Blendshapes extracting time(ms):  16.555309295654297
+classifying time:  0.0
+Blendshapes extracting time(ms):  15.653848648071289
+classifying time:  0.9989738464355469
+Blendshapes extracting time(ms):  15.717029571533203
+classifying time:  1.0023117065429688
+Blendshapes extracting time(ms):  14.488697052001953
+classifying time:  1.0001659393310547
+Blendshapes extracting time(ms):  15.046834945678711
+classifying time:  1.0008811950683594
+Blendshapes extracting time(ms):  15.246868133544922
+classifying time:  1.0061264038085938
+Blendshapes extracting time(ms):  15.663862228393555
+classifying time:  0.9996891021728516
+Blendshapes extracting time(ms):  15.684366226196289
+classifying time:  1.0898113250732422
+Blendshapes extracting time(ms):  16.119003295898438
+classifying time:  0.0
+Blendshapes extracting time(ms):  16.72983169555664
+classifying time:  0.0
+Blendshapes extracting time(ms):  16.54529571533203
+classifying time:  0.9984970092773438
+Blendshapes extracting time(ms):  16.347169876098633
+classifying time:  0.0
+Blendshapes extracting time(ms):  17.05646514892578
+classifying time:  1.0063648223876953
+Blendshapes extracting time(ms):  16.14999771118164
+classifying time:  1.009225845336914
+Blendshapes extracting time(ms):  16.039371490478516
+classifying time:  0.0
+Blendshapes extracting time(ms):  15.720844268798828
+classifying time:  0.0
+Blendshapes extracting time(ms):  16.086339950561523
+classifying time:  0.6093978881835938
+Blendshapes extracting time(ms):  14.616727828979492
+classifying time:  1.232147216796875
+Blendshapes extracting time(ms):  15.610933303833008
+classifying time:  1.0058879852294922
+Blendshapes extracting time(ms):  14.957904815673828
+classifying time:  0.0
+Blendshapes extracting time(ms):  16.063451766967773
+classifying time:  1.0008811950683594
+Blendshapes extracting time(ms):  15.744686126708984
+classifying time:  0.0
+Blendshapes extracting time(ms):  15.55633544921875
+classifying time:  0.9984970092773438
+Blendshapes extracting time(ms):  15.348434448242188
+classifying time:  1.0020732879638672
+Blendshapes extracting time(ms):  15.439271926879883
+classifying time:  1.0061264038085938
+Blendshapes extracting time(ms):  15.251398086547852
+classifying time:  1.001119613647461
+Blendshapes extracting time(ms):  15.500068664550781
+classifying time:  0.0
+Blendshapes extracting time(ms):  16.176939010620117
+classifying time:  0.0
+Blendshapes extracting time(ms):  14.733552932739258
+classifying time:  1.1510848999023438
+Blendshapes extracting time(ms):  16.701936721801758
+classifying time:  0.0
+Blendshapes extracting time(ms):  15.831470489501953
+classifying time:  0.0
+Blendshapes extracting time(ms):  15.549182891845703
+classifying time:  0.0
+Blendshapes extracting time(ms):  15.271186828613281
+classifying time:  0.9999275207519531
+Blendshapes extracting time(ms):  16.299009323120117
+classifying time:  0.0
+Blendshapes extracting time(ms):  16.28398895263672
+classifying time:  0.0
+Blendshapes extracting time(ms):  16.621828079223633
+classifying time:  0.0
+Blendshapes extracting time(ms):  15.769481658935547
+classifying time:  1.22833251953125
+Blendshapes extracting time(ms):  15.814065933227539
+classifying time:  1.0037422180175781
+Blendshapes extracting time(ms):  15.176773071289062
+classifying time:  1.4007091522216797
+Blendshapes extracting time(ms):  15.89059829711914
+classifying time:  1.0058879852294922
+Blendshapes extracting time(ms):  18.72873306274414
+classifying time:  0.0
+Blendshapes extracting time(ms):  17.247438430786133
+classifying time:  1.0318756103515625
+Blendshapes extracting time(ms):  14.612674713134766
+classifying time:  1.291036605834961
+Blendshapes extracting time(ms):  17.055273056030273
+classifying time:  0.0
+Blendshapes extracting time(ms):  16.039609909057617
+classifying time:  1.001119613647461
+Blendshapes extracting time(ms):  17.101526260375977
+classifying time:  0.0
+Blendshapes extracting time(ms):  15.445232391357422
+classifying time:  0.9965896606445312
+Blendshapes extracting time(ms):  16.575098037719727
+classifying time:  0.99945068359375
+Blendshapes extracting time(ms):  19.71578598022461
+classifying time:  0.0
+Blendshapes extracting time(ms):  18.4628963470459
+classifying time:  1.003265380859375
+Blendshapes extracting time(ms):  18.196821212768555
+classifying time:  1.0001659393310547
+Blendshapes extracting time(ms):  20.931005477905273
+classifying time:  0.5180835723876953
+Blendshapes extracting time(ms):  17.198801040649414
+classifying time:  1.001596450805664
+Blendshapes extracting time(ms):  16.058683395385742
+classifying time:  0.0
+Blendshapes extracting time(ms):  19.69313621520996
+classifying time:  1.0004043579101562
+Blendshapes extracting time(ms):  18.085241317749023
+classifying time:  0.9946823120117188
+Blendshapes extracting time(ms):  16.065359115600586
+classifying time:  1.2578964233398438
+Blendshapes extracting time(ms):  16.66879653930664
+classifying time:  0.0
+Blendshapes extracting time(ms):  14.961719512939453
+classifying time:  1.5072822570800781
+Blendshapes extracting time(ms):  15.537261962890625
+classifying time:  0.0
+Blendshapes extracting time(ms):  16.157865524291992
+classifying time:  1.0056495666503906
+Blendshapes extracting time(ms):  16.081571578979492
+classifying time:  0.0
+Blendshapes extracting time(ms):  16.161680221557617
+classifying time:  0.0
+Blendshapes extracting time(ms):  16.336917877197266
+classifying time:  0.0
+Blendshapes extracting time(ms):  15.436410903930664
+classifying time:  0.5190372467041016
+Blendshapes extracting time(ms):  16.222715377807617
+classifying time:  1.001119613647461
+Blendshapes extracting time(ms):  15.48457145690918
+classifying time:  0.0
+Blendshapes extracting time(ms):  14.80555534362793
+classifying time:  0.9996891021728516
+Blendshapes extracting time(ms):  15.057086944580078
+classifying time:  1.0013580322265625
+Blendshapes extracting time(ms):  15.300750732421875
+classifying time:  0.9980201721191406
+Blendshapes extracting time(ms):  14.662027359008789
+classifying time:  0.9987354278564453
+Blendshapes extracting time(ms):  15.290975570678711
+classifying time:  0.9963512420654297
+Blendshapes extracting time(ms):  16.89887046813965
+classifying time:  0.0
+Blendshapes extracting time(ms):  14.525175094604492
+classifying time:  1.4040470123291016
+Blendshapes extracting time(ms):  15.785455703735352
+classifying time:  0.0
+Blendshapes extracting time(ms):  16.132116317749023
+classifying time:  1.0073184967041016
+Blendshapes extracting time(ms):  14.779329299926758
+classifying time:  0.0
+Blendshapes extracting time(ms):  16.102313995361328
+classifying time:  0.0
+Blendshapes extracting time(ms):  15.70439338684082
+classifying time:  1.0066032409667969
+Blendshapes extracting time(ms):  16.623735427856445
+classifying time:  0.0
+Blendshapes extracting time(ms):  16.4492130279541
+classifying time:  1.2958049774169922
+Blendshapes extracting time(ms):  15.477657318115234
+classifying time:  0.0
+Blendshapes extracting time(ms):  14.680624008178711
+classifying time:  1.0004043579101562
+Blendshapes extracting time(ms):  14.773368835449219
+classifying time:  1.001119613647461
+Blendshapes extracting time(ms):  15.2740478515625
+classifying time:  1.0044574737548828
+Blendshapes extracting time(ms):  15.574216842651367
+classifying time:  0.5059242248535156
+Blendshapes extracting time(ms):  14.970064163208008
+classifying time:  0.9970664978027344
+Blendshapes extracting time(ms):  15.053510665893555
+classifying time:  1.4057159423828125
+Blendshapes extracting time(ms):  14.780998229980469
+classifying time:  1.001119613647461
+Blendshapes extracting time(ms):  15.052318572998047
+classifying time:  1.3751983642578125
+Blendshapes extracting time(ms):  15.421628952026367
+classifying time:  0.0
+Blendshapes extracting time(ms):  15.972375869750977
+classifying time:  1.0013580322265625
+Blendshapes extracting time(ms):  15.815019607543945
+classifying time:  0.0
+Blendshapes extracting time(ms):  15.511751174926758
+classifying time:  0.9968280792236328
+Blendshapes extracting time(ms):  15.19465446472168
+classifying time:  0.0
+Blendshapes extracting time(ms):  15.62809944152832
+classifying time:  0.9999275207519531
+Blendshapes extracting time(ms):  15.320301055908203
+classifying time:  0.9996891021728516
+Blendshapes extracting time(ms):  15.854597091674805
+classifying time:  0.0
+Blendshapes extracting time(ms):  16.983747482299805
+classifying time:  0.0
+Blendshapes extracting time(ms):  16.10541343688965
+classifying time:  1.0082721710205078
+Blendshapes extracting time(ms):  16.483545303344727
+classifying time:  0.5407333374023438
+Blendshapes extracting time(ms):  16.39413833618164
+classifying time:  0.0
+Blendshapes extracting time(ms):  16.190290451049805
+classifying time:  0.0
+Blendshapes extracting time(ms):  16.198158264160156
+classifying time:  0.0
+Blendshapes extracting time(ms):  16.462087631225586
+classifying time:  0.0
+Blendshapes extracting time(ms):  16.312837600708008
+classifying time:  0.9284019470214844
+Blendshapes extracting time(ms):  14.866113662719727
+classifying time:  1.5070438385009766
+Blendshapes extracting time(ms):  14.218807220458984
+classifying time:  2.0241737365722656
+Blendshapes extracting time(ms):  15.721559524536133
+classifying time:  1.0013580322265625
+Blendshapes extracting time(ms):  16.189098358154297
+classifying time:  0.0
+Blendshapes extracting time(ms):  14.956474304199219
+classifying time:  0.9982585906982422
+Blendshapes extracting time(ms):  14.693498611450195
+classifying time:  0.9984970092773438
+Blendshapes extracting time(ms):  17.07935333251953
+classifying time:  0.0
+Blendshapes extracting time(ms):  16.187667846679688
+classifying time:  1.1684894561767578
+Blendshapes extracting time(ms):  15.059709548950195
+classifying time:  0.9980201721191406
+Blendshapes extracting time(ms):  15.352964401245117
+classifying time:  0.9977817535400391
+Blendshapes extracting time(ms):  15.322446823120117
+classifying time:  1.0001659393310547
+Blendshapes extracting time(ms):  15.449762344360352
+classifying time:  1.0020732879638672
+Blendshapes extracting time(ms):  14.714956283569336
+classifying time:  1.0001659393310547
+Blendshapes extracting time(ms):  16.438007354736328
+classifying time:  0.0
+Blendshapes extracting time(ms):  14.580011367797852
+classifying time:  1.140594482421875
+Blendshapes extracting time(ms):  16.62731170654297
+classifying time:  1.0030269622802734
+Blendshapes extracting time(ms):  15.537500381469727
+classifying time:  1.0128021240234375
+Blendshapes extracting time(ms):  16.31784439086914
+classifying time:  1.0063648223876953
+Blendshapes extracting time(ms):  14.797210693359375
+classifying time:  1.0058879852294922
+Blendshapes extracting time(ms):  17.796039581298828
+classifying time:  0.9973049163818359
+Blendshapes extracting time(ms):  19.18768882751465
+classifying time:  0.9989738464355469
+Blendshapes extracting time(ms):  15.230178833007812
+classifying time:  1.4846324920654297
+Blendshapes extracting time(ms):  14.520883560180664
+classifying time:  0.0
+Blendshapes extracting time(ms):  16.624927520751953
+classifying time:  0.0
+Blendshapes extracting time(ms):  15.414714813232422
+classifying time:  0.5137920379638672
+Blendshapes extracting time(ms):  15.691757202148438
+classifying time:  0.0
+Blendshapes extracting time(ms):  16.55888557434082
+classifying time:  0.0
+Blendshapes extracting time(ms):  15.545368194580078
+classifying time:  1.0018348693847656
+Blendshapes extracting time(ms):  15.455484390258789
+classifying time:  1.0006427764892578
+Blendshapes extracting time(ms):  14.96434211730957
+classifying time:  1.0001659393310547
+Blendshapes extracting time(ms):  15.374898910522461
+classifying time:  0.9999275207519531
+Blendshapes extracting time(ms):  16.5402889251709
+classifying time:  0.0
+Blendshapes extracting time(ms):  16.379594802856445
+classifying time:  1.0013580322265625
+Blendshapes extracting time(ms):  16.59679412841797
+classifying time:  0.0
+Blendshapes extracting time(ms):  15.96832275390625
+classifying time:  1.0004043579101562
+Blendshapes extracting time(ms):  16.521692276000977
+classifying time:  0.0
+Blendshapes extracting time(ms):  15.56706428527832
+classifying time:  1.0018348693847656
+Blendshapes extracting time(ms):  15.370368957519531
+classifying time:  0.7064342498779297
+Blendshapes extracting time(ms):  16.326189041137695
+classifying time:  0.0
+Blendshapes extracting time(ms):  15.393257141113281
+classifying time:  0.0
+Blendshapes extracting time(ms):  14.948844909667969
+classifying time:  1.0001659393310547
+Blendshapes extracting time(ms):  15.168428421020508
+classifying time:  0.9999275207519531
+Blendshapes extracting time(ms):  14.140605926513672
+classifying time:  1.6388893127441406
+Blendshapes extracting time(ms):  16.86882972717285
+classifying time:  0.0
+Blendshapes extracting time(ms):  14.833927154541016
+classifying time:  1.5058517456054688
+Blendshapes extracting time(ms):  15.650272369384766
+classifying time:  1.0306835174560547
+Blendshapes extracting time(ms):  14.847040176391602
+classifying time:  1.9643306732177734
+Blendshapes extracting time(ms):  16.177892684936523
+classifying time:  0.0
+Blendshapes extracting time(ms):  15.594244003295898
+classifying time:  0.5044937133789062
+Blendshapes extracting time(ms):  16.487598419189453
+classifying time:  0.0
+Blendshapes extracting time(ms):  16.944169998168945
+classifying time:  0.0
+Blendshapes extracting time(ms):  15.662670135498047
+classifying time:  1.0018348693847656
+Blendshapes extracting time(ms):  14.781713485717773
+classifying time:  0.9980201721191406
+Blendshapes extracting time(ms):  14.76287841796875
+classifying time:  1.0025501251220703
+Blendshapes extracting time(ms):  14.806747436523438
+classifying time:  0.0
+Blendshapes extracting time(ms):  15.645027160644531
+classifying time:  0.5095005035400391
+Blendshapes extracting time(ms):  16.009092330932617
+classifying time:  0.9999275207519531
+Blendshapes extracting time(ms):  17.056703567504883
+classifying time:  1.0023117065429688
+Blendshapes extracting time(ms):  14.327526092529297
+classifying time:  1.390695571899414
+Blendshapes extracting time(ms):  15.052080154418945
+classifying time:  1.0018348693847656
+Blendshapes extracting time(ms):  15.584945678710938
+classifying time:  0.9980201721191406
+Blendshapes extracting time(ms):  16.01576805114746
+classifying time:  0.0
+Blendshapes extracting time(ms):  17.63749122619629
+classifying time:  0.0
+Blendshapes extracting time(ms):  15.589475631713867
+classifying time:  1.3926029205322266
+Blendshapes extracting time(ms):  16.16978645324707
+classifying time:  0.0
+Blendshapes extracting time(ms):  15.344619750976562
+classifying time:  0.0
+Blendshapes extracting time(ms):  14.44387435913086
+classifying time:  1.0247230529785156
+Blendshapes extracting time(ms):  15.176057815551758
+classifying time:  0.9982585906982422
+Blendshapes extracting time(ms):  14.73379135131836
+classifying time:  0.9996891021728516
+Blendshapes extracting time(ms):  15.55180549621582
+classifying time:  1.007080078125
+Blendshapes extracting time(ms):  15.241861343383789
+classifying time:  0.9999275207519531
+Blendshapes extracting time(ms):  15.589714050292969
+classifying time:  0.5893707275390625
+Blendshapes extracting time(ms):  15.45405387878418
+classifying time:  0.0
+Blendshapes extracting time(ms):  16.46113395690918
+classifying time:  0.0
+Blendshapes extracting time(ms):  16.2503719329834
+classifying time:  0.5118846893310547
+Blendshapes extracting time(ms):  16.01433753967285
+classifying time:  0.0
+Blendshapes extracting time(ms):  17.095327377319336
+classifying time:  0.0
+Blendshapes extracting time(ms):  15.894651412963867
+classifying time:  1.0006427764892578
+Blendshapes extracting time(ms):  14.015436172485352
+classifying time:  1.2171268463134766
+Blendshapes extracting time(ms):  15.089273452758789
+classifying time:  0.0
+Blendshapes extracting time(ms):  16.415834426879883
+classifying time:  0.0
+Blendshapes extracting time(ms):  15.037775039672852
+classifying time:  0.9999275207519531
+Blendshapes extracting time(ms):  14.711141586303711
+classifying time:  1.148223876953125
+Blendshapes extracting time(ms):  16.32404327392578
+classifying time:  0.33855438232421875
+Blendshapes extracting time(ms):  14.503955841064453
+classifying time:  1.0039806365966797
+Blendshapes extracting time(ms):  15.135526657104492
+classifying time:  1.0187625885009766
+Blendshapes extracting time(ms):  16.819477081298828
+classifying time:  0.0
+Blendshapes extracting time(ms):  15.506267547607422
+classifying time:  1.0030269622802734
+Blendshapes extracting time(ms):  15.698432922363281
+classifying time:  1.0223388671875
+Blendshapes extracting time(ms):  15.264511108398438
+classifying time:  1.0018348693847656
+Blendshapes extracting time(ms):  14.373302459716797
+classifying time:  1.5032291412353516
+Blendshapes extracting time(ms):  14.219284057617188
+classifying time:  1.504659652709961
+Blendshapes extracting time(ms):  14.370203018188477
+classifying time:  1.5058517456054688
+Blendshapes extracting time(ms):  15.977859497070312
+classifying time:  0.0
+Blendshapes extracting time(ms):  15.174388885498047
+classifying time:  1.506805419921875
+Blendshapes extracting time(ms):  15.456914901733398
+classifying time:  0.9987354278564453
+Blendshapes extracting time(ms):  16.5402889251709
+classifying time:  0.0
+Blendshapes extracting time(ms):  15.121936798095703
+classifying time:  0.9951591491699219
+Blendshapes extracting time(ms):  15.03300666809082
+classifying time:  1.5072822570800781
+Blendshapes extracting time(ms):  15.534400939941406
+classifying time:  1.0063648223876953
+Blendshapes extracting time(ms):  15.86008071899414
+classifying time:  1.5134811401367188
+Blendshapes extracting time(ms):  15.746116638183594
+classifying time:  0.9999275207519531
+Blendshapes extracting time(ms):  15.703439712524414
+classifying time:  1.0023117065429688
+Blendshapes extracting time(ms):  16.025066375732422
+classifying time:  0.0
+Blendshapes extracting time(ms):  15.452146530151367
+classifying time:  1.3875961303710938
+Blendshapes extracting time(ms):  14.977216720581055
+classifying time:  1.0042190551757812
+Blendshapes extracting time(ms):  14.172077178955078
+classifying time:  1.173257827758789
+Blendshapes extracting time(ms):  14.87112045288086
+classifying time:  1.0187625885009766
+Blendshapes extracting time(ms):  14.670848846435547
+classifying time:  1.3513565063476562
+Blendshapes extracting time(ms):  15.65694808959961
+classifying time:  1.001119613647461
+Blendshapes extracting time(ms):  15.295743942260742
+classifying time:  0.9996891021728516
+Blendshapes extracting time(ms):  14.606952667236328
+classifying time:  0.0
+Blendshapes extracting time(ms):  14.615535736083984
+classifying time:  1.0132789611816406
+Blendshapes extracting time(ms):  16.0672664642334
+classifying time:  1.0058879852294922
+Blendshapes extracting time(ms):  18.228769302368164
+classifying time:  2.012491226196289
+Blendshapes extracting time(ms):  18.204927444458008
+classifying time:  1.5079975128173828
+Blendshapes extracting time(ms):  19.849300384521484
+classifying time:  1.363992691040039
+Blendshapes extracting time(ms):  15.830755233764648
+classifying time:  0.9527206420898438
+Blendshapes extracting time(ms):  14.554500579833984
+classifying time:  0.9987354278564453
+Blendshapes extracting time(ms):  16.025781631469727
+classifying time:  0.5054473876953125
+Blendshapes extracting time(ms):  14.826297760009766
+classifying time:  0.0
+Blendshapes extracting time(ms):  15.131950378417969
+classifying time:  0.514984130859375
+Blendshapes extracting time(ms):  15.923738479614258
+classifying time:  0.0
+Blendshapes extracting time(ms):  16.80445671081543
+classifying time:  0.0
+Blendshapes extracting time(ms):  14.977693557739258
+classifying time:  1.2798309326171875
+Blendshapes extracting time(ms):  15.743494033813477
+classifying time:  1.3194084167480469
+Blendshapes extracting time(ms):  15.247583389282227
+classifying time:  0.9982585906982422
+Blendshapes extracting time(ms):  15.361547470092773
+classifying time:  0.0
+Blendshapes extracting time(ms):  15.016317367553711
+classifying time:  1.0027885437011719
+Blendshapes extracting time(ms):  16.016483306884766
+classifying time:  1.0018348693847656
+Blendshapes extracting time(ms):  16.364574432373047
+classifying time:  1.008749008178711
+Blendshapes extracting time(ms):  18.589019775390625
+classifying time:  0.0
+Blendshapes extracting time(ms):  15.794515609741211
+classifying time:  0.0
+Blendshapes extracting time(ms):  15.29693603515625
+classifying time:  1.0063648223876953
+Blendshapes extracting time(ms):  15.228033065795898
+classifying time:  0.99945068359375
+Blendshapes extracting time(ms):  16.659021377563477
+classifying time:  1.0101795196533203
+Blendshapes extracting time(ms):  14.476299285888672
+classifying time:  1.7330646514892578
+Blendshapes extracting time(ms):  15.208244323730469
+classifying time:  1.5056133270263672
+Blendshapes extracting time(ms):  15.749692916870117
+classifying time:  0.0
+Blendshapes extracting time(ms):  15.585184097290039
+classifying time:  0.9999275207519531
+Blendshapes extracting time(ms):  14.916181564331055
+classifying time:  1.504659652709961
+Blendshapes extracting time(ms):  14.878988265991211
+classifying time:  1.508951187133789
+Blendshapes extracting time(ms):  17.24982261657715
+classifying time:  0.0
+Blendshapes extracting time(ms):  15.753507614135742
+classifying time:  0.0
+Blendshapes extracting time(ms):  14.662504196166992
+classifying time:  1.0018348693847656
+Blendshapes extracting time(ms):  15.047788619995117
+classifying time:  1.0004043579101562
+Blendshapes extracting time(ms):  15.216588973999023
+classifying time:  0.0
+Blendshapes extracting time(ms):  15.639781951904297
+classifying time:  0.9996891021728516
+Blendshapes extracting time(ms):  15.180826187133789
+classifying time:  1.0523796081542969
+Blendshapes extracting time(ms):  14.648675918579102
+classifying time:  1.0046958923339844
+Blendshapes extracting time(ms):  15.430927276611328
+classifying time:  0.0
+Blendshapes extracting time(ms):  15.204191207885742
+classifying time:  1.0023117065429688
+Blendshapes extracting time(ms):  14.867067337036133
+classifying time:  1.2416839599609375
+Blendshapes extracting time(ms):  14.819145202636719
+classifying time:  1.001119613647461
+Blendshapes extracting time(ms):  15.291690826416016
+classifying time:  0.0
+Blendshapes extracting time(ms):  15.828609466552734
+classifying time:  0.9999275207519531
+Blendshapes extracting time(ms):  14.942646026611328
+classifying time:  1.0018348693847656
+Blendshapes extracting time(ms):  14.44697380065918
+classifying time:  0.9992122650146484
+Blendshapes extracting time(ms):  15.59901237487793
+classifying time:  0.0
+Blendshapes extracting time(ms):  15.927791595458984
+classifying time:  0.0
+Blendshapes extracting time(ms):  16.057252883911133
+classifying time:  0.0
+Blendshapes extracting time(ms):  17.375469207763672
+classifying time:  0.0
+Blendshapes extracting time(ms):  16.30377769470215
+classifying time:  0.0
+Blendshapes extracting time(ms):  14.527082443237305
+classifying time:  1.5072822570800781
+Blendshapes extracting time(ms):  15.834808349609375
+classifying time:  0.0
+Blendshapes extracting time(ms):  15.981435775756836
+classifying time:  0.0
+Blendshapes extracting time(ms):  15.007495880126953
+classifying time:  0.9984970092773438
+Blendshapes extracting time(ms):  14.418363571166992
+classifying time:  1.0323524475097656
+Blendshapes extracting time(ms):  16.460418701171875
+classifying time:  0.5056858062744141
+Blendshapes extracting time(ms):  15.624523162841797
+classifying time:  1.0008811950683594
+Blendshapes extracting time(ms):  14.863014221191406
+classifying time:  1.5034675598144531
+Blendshapes extracting time(ms):  15.608549118041992
+classifying time:  0.9992122650146484
+Blendshapes extracting time(ms):  15.281200408935547
+classifying time:  0.8313655853271484
+Blendshapes extracting time(ms):  14.916419982910156
+classifying time:  0.9999275207519531
+Blendshapes extracting time(ms):  16.63374900817871
+classifying time:  0.0
+Blendshapes extracting time(ms):  15.21611213684082
+classifying time:  0.0
+Blendshapes extracting time(ms):  16.618013381958008
+classifying time:  1.1181831359863281
+Blendshapes extracting time(ms):  16.040563583374023
+classifying time:  1.003265380859375
+Blendshapes extracting time(ms):  15.584707260131836
+classifying time:  1.4483928680419922
+Blendshapes extracting time(ms):  15.424966812133789
+classifying time:  1.0077953338623047
+Blendshapes extracting time(ms):  14.652490615844727
+classifying time:  1.0137557983398438
+Blendshapes extracting time(ms):  15.38395881652832
+classifying time:  1.0039806365966797
+Blendshapes extracting time(ms):  14.520406723022461
+classifying time:  1.5058517456054688
+Blendshapes extracting time(ms):  16.199350357055664
+classifying time:  1.0068416595458984
+Blendshapes extracting time(ms):  14.748811721801758
+classifying time:  1.0132789611816406
+Blendshapes extracting time(ms):  14.398336410522461
+classifying time:  1.0001659393310547
+Blendshapes extracting time(ms):  15.14887809753418
+classifying time:  1.506805419921875
+Blendshapes extracting time(ms):  16.121625900268555
+classifying time:  0.5052089691162109
+Blendshapes extracting time(ms):  17.028331756591797
+classifying time:  0.0
+Blendshapes extracting time(ms):  16.314029693603516
+classifying time:  1.0051727294921875
+Blendshapes extracting time(ms):  14.701366424560547
+classifying time:  2.029895782470703
+Blendshapes extracting time(ms):  15.798568725585938
+classifying time:  0.0
+Blendshapes extracting time(ms):  19.501209259033203
+classifying time:  0.99945068359375
+Blendshapes extracting time(ms):  18.445968627929688
+classifying time:  0.0
+Blendshapes extracting time(ms):  15.542745590209961
+classifying time:  1.0004043579101562
+Blendshapes extracting time(ms):  15.475273132324219
+classifying time:  0.0
+Blendshapes extracting time(ms):  14.433145523071289
+classifying time:  1.1229515075683594
+Blendshapes extracting time(ms):  13.91458511352539
+classifying time:  1.1835098266601562
+Blendshapes extracting time(ms):  15.71512222290039
+classifying time:  0.0
+Blendshapes extracting time(ms):  15.71345329284668
+classifying time:  0.9942054748535156
+Blendshapes extracting time(ms):  15.451669692993164
+classifying time:  1.003265380859375
+Blendshapes extracting time(ms):  15.060901641845703
+classifying time:  1.0080337524414062
+Blendshapes extracting time(ms):  14.587879180908203
+classifying time:  1.2531280517578125
+Blendshapes extracting time(ms):  15.631914138793945
+classifying time:  0.0
+Blendshapes extracting time(ms):  16.278982162475586
+classifying time:  1.0046958923339844
+Blendshapes extracting time(ms):  16.968965530395508
+classifying time:  1.005411148071289
+Blendshapes extracting time(ms):  15.88582992553711
+classifying time:  1.0061264038085938
+Blendshapes extracting time(ms):  15.709877014160156
+classifying time:  0.0
+Blendshapes extracting time(ms):  16.111373901367188
+classifying time:  0.5056858062744141
+Blendshapes extracting time(ms):  15.186309814453125
+classifying time:  0.5033016204833984
+Blendshapes extracting time(ms):  16.464948654174805
+classifying time:  0.0
+Blendshapes extracting time(ms):  14.407634735107422
+classifying time:  1.5108585357666016
+Blendshapes extracting time(ms):  16.339778900146484
+classifying time:  0.0
+Blendshapes extracting time(ms):  14.537811279296875
+classifying time:  1.5091896057128906
+Blendshapes extracting time(ms):  15.992879867553711
+classifying time:  1.1219978332519531
+Blendshapes extracting time(ms):  16.811847686767578
+classifying time:  1.0089874267578125
+Blendshapes extracting time(ms):  14.444351196289062
+classifying time:  1.6124248504638672
+Blendshapes extracting time(ms):  17.057418823242188
+classifying time:  0.0
+Blendshapes extracting time(ms):  15.12765884399414
+classifying time:  1.2083053588867188
+Blendshapes extracting time(ms):  15.251398086547852
+classifying time:  0.99945068359375
+Blendshapes extracting time(ms):  14.848947525024414
+classifying time:  1.0018348693847656
+Blendshapes extracting time(ms):  14.833450317382812
+classifying time:  1.070261001586914
+Blendshapes extracting time(ms):  15.377283096313477
+classifying time:  1.0006427764892578
+Blendshapes extracting time(ms):  15.96379280090332
+classifying time:  0.0
+Blendshapes extracting time(ms):  15.672683715820312
+classifying time:  0.0
+Blendshapes extracting time(ms):  15.258550643920898
+classifying time:  0.0
+Blendshapes extracting time(ms):  15.816450119018555
+classifying time:  0.5908012390136719
+Blendshapes extracting time(ms):  16.35003089904785
+classifying time:  0.0
+Blendshapes extracting time(ms):  15.579462051391602
+classifying time:  1.0068416595458984
+Blendshapes extracting time(ms):  16.345739364624023
+classifying time:  0.0
+Blendshapes extracting time(ms):  17.30489730834961
+classifying time:  0.5042552947998047
+Blendshapes extracting time(ms):  15.376567840576172
+classifying time:  0.0
+Blendshapes extracting time(ms):  15.717744827270508
+classifying time:  0.0
+Blendshapes extracting time(ms):  15.287637710571289
+classifying time:  1.0063648223876953
+Blendshapes extracting time(ms):  14.85443115234375
+classifying time:  1.0023117065429688
+Blendshapes extracting time(ms):  15.828132629394531
+classifying time:  1.0018348693847656
+Blendshapes extracting time(ms):  15.635490417480469
+classifying time:  0.0
+Blendshapes extracting time(ms):  14.467954635620117
+classifying time:  1.5077590942382812
+Blendshapes extracting time(ms):  14.706850051879883
+classifying time:  1.5058517456054688
+Blendshapes extracting time(ms):  15.517473220825195
+classifying time:  1.003265380859375
+Blendshapes extracting time(ms):  16.09039306640625
+classifying time:  1.0073184967041016
+Blendshapes extracting time(ms):  14.285087585449219
+classifying time:  1.505136489868164
+Blendshapes extracting time(ms):  17.80223846435547
+classifying time:  0.0
+Blendshapes extracting time(ms):  15.73038101196289
+classifying time:  0.6978511810302734
+Blendshapes extracting time(ms):  16.46566390991211
+classifying time:  0.0
+Blendshapes extracting time(ms):  15.448808670043945
+classifying time:  1.1348724365234375
+Blendshapes extracting time(ms):  16.344308853149414
+classifying time:  0.0
+Blendshapes extracting time(ms):  15.335321426391602
+classifying time:  1.0025501251220703
+Blendshapes extracting time(ms):  15.752077102661133
+classifying time:  0.9999275207519531
+Blendshapes extracting time(ms):  15.229225158691406
+classifying time:  0.5037784576416016
+Blendshapes extracting time(ms):  14.935970306396484
+classifying time:  0.9996891021728516
+Blendshapes extracting time(ms):  15.079021453857422
+classifying time:  0.9992122650146484
+Blendshapes extracting time(ms):  15.776634216308594
+classifying time:  0.0
+Blendshapes extracting time(ms):  15.140771865844727
+classifying time:  1.003265380859375
+Blendshapes extracting time(ms):  15.701055526733398
+classifying time:  1.056671142578125
+Blendshapes extracting time(ms):  15.334367752075195
+classifying time:  1.003265380859375
+Blendshapes extracting time(ms):  15.09714126586914
+classifying time:  1.5041828155517578
+Blendshapes extracting time(ms):  16.248226165771484
+classifying time:  0.5123615264892578
+Blendshapes extracting time(ms):  15.337467193603516
+classifying time:  1.0006427764892578
